@@ -4,7 +4,7 @@ Lightweight distance and relative radial velocity estimation with a passive RF
 receiver, implemented on the AMD RFSoC 4x2.
 
 This repository accompanies the bachelor thesis [*Lightweight Distance and
-Relative Radial Velocity Estimation with a Passive RF Receiver*](thesis-url),
+Relative Radial Velocity Estimation with a Passive RF Receiver*][thesis],
 carried out as part of the CSE3000 Research Project at Delft University of
 Technology in 2026.
 A passive receiver estimates its distance and relative radial velocity from a
@@ -145,5 +145,5 @@ Released under the MIT License (see [LICENSE](LICENSE)). This work is derived
 from the Xilinx RFSoC-MTS project; the original Xilinx copyright notice is
 retained in the license file as required.
 
-[thesis-link]: TODO
+[thesis]: http://resolver.tudelft.nl/uuid:8b02d05f-47ce-4d75-9f23-c64fae4b3f5f
 [rfsoc-mts]: https://github.com/Xilinx/RFSoC-MTS
